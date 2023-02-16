@@ -167,3 +167,16 @@ body {
   height: 100px;
   margin-top: -40px;
 }
+
+.List{
+  background-color: #b7d3ae50;
+  width: 75%;
+  height: 625px;
+  float: left;
+  margin: 25px;
+  border-radius: 15px;
+  box-shadow: 5px 9px 4px #00000025;
+}
+.l-stat{
+  margin-left: 90px;
+}
