@@ -45,7 +45,7 @@ const BannedAccounts = (props) => {
                             <p><Avatar sx={{ bgcolor : "light-gray",  width : 30, height : 30 }} />
                             this_is_a_troll_account</p>
                         </div>
-                    </Stack>
+                    </Stack> 
                 </Grid>
             </Grid>
         </div>
